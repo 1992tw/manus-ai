@@ -1,0 +1,32 @@
+{
+  "id": "688a5dc64ec018875e873094",
+  "title": "Manus AI",
+  "description": "desc",
+  "learningObjectives": [
+    "Understand the principles of AI",
+    "Apply AI principles using Manus AI library",
+    "Build and evaluate AI manuscripts"
+  ],
+  "finalProjectDetails": {
+    "overview": "The final project involves creating an AI manuscript using Manus AI, with emphasis on creativity, complexity, and performance optimization.",
+    "planningResources": [
+      "Manuscript planning guide",
+      "AI script optimization guide"
+    ],
+    "submissionInstructions": "Submit your final manuscript along with a report detailing the applied principles, optimization steps taken, and a self-evaluation of the manuscript's quality.",
+    "requirements": [
+      ""
+    ]
+  },
+  "createdBy": {
+    "name": "Tammam Alwafai",
+    "githubUsername": "1992tw"
+  },
+  "contributors": [],
+  "status": "pending",
+  "originalGithubUrl": null,
+  "remoteGithubUrl": "https://github.com/1992tw/manus-ai",
+  "createdAt": "2025-07-30T18:00:38.136Z",
+  "updatedAt": "2025-07-30T18:02:18.845Z",
+  "lessonCount": 4
+}
