@@ -16,11 +16,11 @@
 
 ## Lesson-Specific Guidance
 
-### Lesson 1: Introduction to Artificial Intelligence
+### Lesson 1: Introduction to Manus AI
 
 **Key Topics:** Topics will be covered as the lesson progresses.
 
-**Assignment:** Assignment will be generated
+**Assignment:** Building a Basic Manus AI Script
 
 **Common Challenges:** [To be filled by mentors based on experience]
 
